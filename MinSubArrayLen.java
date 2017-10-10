@@ -1,4 +1,4 @@
-class Solution {
+class MinSubArrayLen {
     public int minSubArrayLen(int s, int[] nums) {
         int n = nums.length;
         int[] sum = new int[n+1];
