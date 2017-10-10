@@ -1,4 +1,4 @@
-class Solution {
+class MajorityElement {
     
     public int orderStatistics(ArrayList<Integer> nums, int k) {
       if(nums.size() <= 3) {
