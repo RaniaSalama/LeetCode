@@ -1,4 +1,4 @@
-class Solution {
+class MaximumSwap {
     public int maximumSwap(int num) {
         char[] numString = (num+"").toCharArray();
         int n = numString.length;
