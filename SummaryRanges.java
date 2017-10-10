@@ -1,4 +1,4 @@
-class Solution {
+class SummaryRanges {
     public List<String> summaryRanges(int[] nums) {
         int i = 0;
         List<String> ranges = new ArrayList<String>();
