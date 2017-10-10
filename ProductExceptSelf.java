@@ -1,4 +1,4 @@
-class Solution {
+class ProductExceptSelf {
     public int[] productExceptSelf(int[] nums) {
         int countZeros = 0;
         int allMutliplication = 1;
