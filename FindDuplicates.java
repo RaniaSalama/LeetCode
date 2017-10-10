@@ -1,4 +1,4 @@
-class Solution {
+class FindDuplicates {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> duplicateNumbers = new ArrayList<Integer>();
         int n = nums.length;
