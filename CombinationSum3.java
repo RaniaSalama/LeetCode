@@ -1,4 +1,4 @@
-class Solution {
+class CombinationSum3 {
 
     public List<List<Integer>> solve(int k, int n, int start) {
         List<List<Integer>> allSolutions = new ArrayList<List<Integer>>();
